@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <mappedProperties>
+        <Page>
+            <title>
+            </title>
+            <description>
+                <genericProperty alias="introduction" />
+                <genericProperty alias="metaDescription" />
+            </description>
+        </Page>
+    </mappedProperties>
+
+    <cachedFeeds>
+        <domain name="" createDate="" updateDate="">
+            <rss>
+                <channel>
+                    <title></title>
+                    <description></description>
+                    <link></link>
+                    <language>en-US</language>
+                    <pubdate>FRE, 31 JUL 2015 14:25:48GMT</pubdate>
+                    <lastbuilddate>FRE, 31 JUL 2015 14:25:48GMT</lastbuilddate>
+                    <generator>Umbraco 7.2.1</generator>
+                    <item>
+                        <title>06-15</title>
+                        <link>http://perspektiv.wideroe.no/utgivelser/06-15/</link>
+                        <description>
+                            <![CDATA[I denne utgaven: Gatelangs i København, Smaken av København, Bo bra i København, Apps på reisen, Dugnadsånd i Korgen, Nasjonalromantikk i vest]]>
+                        </description>
+                        <pubdate>FRE, 31 JUL 2015 14:21:54GMT</pubdate>
+                    </item>
+                </channel>
+            </rss>
+        </domain>
+    </cachedFeeds>
+</configuration>
